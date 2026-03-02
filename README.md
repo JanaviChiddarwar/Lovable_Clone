@@ -1,7 +1,7 @@
 # Lovable_Clone
 This is a high-quality frontend clone of the Lovable.dev landing page. It demonstrates a strong grasp of modern web design principles, including responsive layouts, complex hover interactions, and dark-themed UI/UX.
 
-#🚀 Key Features
+# 🚀 Key Features
   Sticky Navigation: A blur-effect (backdrop-filter) navigation bar that stays fixed while scrolling.
 
   Interactive Dropdowns: Custom CSS-based hover menus for "Solutions" and "Resources" sections.
